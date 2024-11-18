@@ -68,7 +68,7 @@ if __name__ == "__main__":
 
     if presentation_mode:
         # Automatically run the main process with default parameters
-        default_keyword = "KSI Thick Of It"
+        default_keyword = "me at the zoo" # The first ever video on YouTube
         default_record_time = 10
         main_process(default_keyword, default_record_time)
     else:
