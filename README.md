@@ -1,6 +1,6 @@
 # Project for AROBS Engineering
 
-Simple script in Selenium that opens YouTube, searches for a term, and clicks on the first video it finds. This was the theme provided for the project required to enter the internship.
+Simple script in Selenium that opens YouTube, searches for a term, and clicks on the first video it finds. This was the assignment provided for the project required to enter the internship.
 
 ## Usage:
 
